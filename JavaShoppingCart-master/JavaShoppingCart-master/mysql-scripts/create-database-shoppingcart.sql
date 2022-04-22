@@ -14,7 +14,7 @@ CREATE TABLE `inventory` (
   `item3` int NOT NULL ,
   `item4` int NOT NULL ,
   `item5` int NOT NULL ,
-  `item6` int NOT NULL 
+  `item6` int NOT NULL ,
   PRIMARY KEY (`username`)
 ) 
 
