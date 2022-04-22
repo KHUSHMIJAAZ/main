@@ -21,7 +21,7 @@
 		<h2>Sign Up</h2>
 		<form action="userControl">
 			<span>Username:</span> <input type="text" name="username"> <br> <br> <br> <br>
-			<span>Password:</span> <input type="password" > <br> <br> <br> <br>
+			<span>Password:</span> <input type="password" name="password"> <br> <br> <br> <br>
 			<input type="hidden" name="action" value="signup">
 			<input id="button" type="submit" value="Create Account">
 		</form>
